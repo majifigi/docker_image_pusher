@@ -1,3 +1,10 @@
+dreamacro/clash:latest
+haishanh/yacd:latest
+homeassistant/home-assistant:latest
+linuxserver/plex:latest
+adolfintel/speedtest:latest
+teddysun/kms:latest
+shinobicctv/shinobi:latest
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
