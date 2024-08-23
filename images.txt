@@ -18,3 +18,5 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 linuxserver/qbittorrent:latest
 sulinggg/openwrt:latest
+liwei2633/gopeed
+rustdesk/rustdesk-server
