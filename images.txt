@@ -20,3 +20,4 @@ linuxserver/qbittorrent:latest
 sulinggg/openwrt:latest
 liwei2633/gopeed
 rustdesk/rustdesk-server
+dyrnq/open-webui
